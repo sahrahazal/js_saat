@@ -4,7 +4,7 @@
 
 ***
 
-- Burada sizi prompt ile karşılayan bir kutu çıkar. Adınızı yazdığınız zaman JS döndürür ve 12'li saat diliminde günün hangi saat ve günün de olduğunu görürsünüz.
+- Burada sizi prompt ile karşılayan bir kutu çıkar. Adınızı yazdığınız zaman JS döndürür ve 12'li saat diliminde günün hangi saat ve günün de olduğunu görebilirsiniz.
 
 https://app.patika.dev/
 
